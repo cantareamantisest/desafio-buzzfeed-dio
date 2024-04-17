@@ -1,0 +1,232 @@
+{
+  "title": "Como está sua inteligência emocional ?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Tenho facilidade de tomar decisões e realizar escolhas ?",
+      "options": [
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 5, "name": "Nunca", "value": 1 }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Consigo interpretar claramente os meus sentimentos ?",
+      "options": [
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 3, "name": "Ás vezes", "value": 3 }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Sempre que posso desfruto de atividades sociais, em grupo de colegas ou pessoas ?",
+      "options": [
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 5, "name": "Nunca", "value": 1 }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Mantenho um padrão de humor linear e sem grandes mudanças ao longo do dia ?",
+      "options": [
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 1, "name": "Sempre", "value": 5 }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Tenho paciência com as pessoas que gosto e convivo, aceitandosuas limitações e erros ?",
+      "options": [
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 4, "name": "Raramente", "value": 2 }
+      ]
+    },
+    {
+      "id": 6,
+      "question": "Quando sou testado e desafiado, persisto e não desisto na primeira dificuldade ?",
+      "options": [
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 1, "name": "Sempre", "value": 5 }
+      ]
+    },
+    {
+      "id": 7,
+      "question": " Levo com bom humor as falhas que cometo ?",
+      "options": [
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 5, "name": "Nunca", "value": 1 }
+      ]
+    },
+    {
+      "id": 8,
+      "question": " Procuro me colocar no lugar das pessoas e tento compreender o momento que aquela pessoa esta passando ?",
+      "options": [
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 5, "name": "Nunca", "value": 1 }
+      ]
+    },
+    {
+      "id": 9,
+      "question": "Os temas e assuntos que aparecem na minha mente durante o dia, em pensamentos como diálogos mentais, são positivos e me colocam em bem estar ?",
+      "options": [
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 4, "name": "Raramente", "value": 2 }
+      ]
+    },
+    {
+      "id": 10,
+      "question": "Quando expresso meus sentimentos emocionais, faço isso adequadamente, no local, momento e com as pessoas certas ?",
+      "options": [
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 2, "name": "Quase sempre", "value": 4 }
+      ]
+    },
+    {
+      "id": 11,
+      "question": "Procuro conviver com pessoas positivas , proativas , equilibradas, com boa autoestima e prósperas no quefazem ?",
+      "options": [
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 2, "name": "Quase sempre", "value": 4 }
+      ]
+    },
+    {
+      "id": 12,
+      "question": "Ao me lembrar de eventos ou situações ruins do passado, que aconteceram comigo ou mesmo com outras pessoas, mantenho o meu estado de equilíbrio de sentimentos, sem deixar que isso me abale ou atrapalhe meu dia ?",
+      "options": [
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 2, "name": "Quase sempre", "value": 4 }
+      ]
+    },
+    {
+      "id": 13,
+      "question": "Me sinto seguro diante de outras pessoas estranhas e consigo me relacionar e interagir sem problemas ?",
+      "options": [
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 3, "name": "Ás vezes", "value": 3 }
+      ]
+    },
+    {
+      "id": 14,
+      "question": "Tenho autocontrole sobre meus sentimentos, mantendo a calma e o equilibrio diante de situações difíceis eindesejadas ?",
+      "options": [
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 4, "name": "Raramente", "value": 2 }
+      ]
+    },
+    {
+      "id": 15,
+      "question": "Esclareço diretamente com a pessoa envolvida qualquer mal entendido, sem dar ouvido ao que falaram, ou fofocas a respeito do que ocorreu ?",
+      "options": [
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 2, "name": "Quase sempre", "value": 4 }
+      ]
+    },
+    {
+      "id": 16,
+      "question": "Aprendo com as experiências negativas, superando meus sentimentos de frustração e entendendo que tudo serve de aprendizado ?",
+      "options": [
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 3, "name": "Ás vezes", "value": 3 }
+      ]
+    },
+    {
+      "id": 17,
+      "question": "Tenho autoconheciento de quem sou, o que sou capaz de fazer, minhas potencialidades e também limitações nos diversos momentos do meu dia ?",
+      "options": [
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 1, "name": "Sempre", "value": 5 }
+      ]
+    },
+    {
+      "id": 18,
+      "question": "Consigo expressar claramente os meus sentimentos autênticos e assim sou entendido e compreendido nisso ?",
+      "options": [
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 4, "name": "Raramente", "value": 2 }
+      ]
+    },
+    {
+      "id": 19,
+      "question": "Diante de situações que me causam mal estar, eu as enfrento prontamente sem criar desculpas ou subterfúgios para encará-las ?",
+      "options": [
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 5, "name": "Nunca", "value": 1 },
+        { "id": 2, "name": "Quase sempre", "value": 4 }
+      ]
+    },
+    {
+      "id": 20,
+      "question": "Consigo passar por situações de susto ou medo e manter meu equilibrio emocional ?",
+      "options": [
+        { "id": 3, "name": "Ás vezes", "value": 3 },
+        { "id": 4, "name": "Raramente", "value": 2 },
+        { "id": 1, "name": "Sempre", "value": 5 },
+        { "id": 2, "name": "Quase sempre", "value": 4 },
+        { "id": 5, "name": "Nunca", "value": 1 }
+      ]
+    }
+  ],
+  "results": {
+    "Muito Alta": "Você é capaz de fazer amizades com facilidade, aceitar as diferenças e ter empatia pelas pessoas. Possui autocontrole, reconhece os proprios erros e foca sempre na solução dos problemas. É uma pessoa que sabe neutralizar influencias tóxicas externa, sabe dizer não quando necessário e é um bom mediador de conflitos. Exerce liderança com inteligencia e bom senso. Não se deixa abater por medo, não alimenta pensamentos de tristeza ou raiva e sabe controlar seus impulsos e direcionar suas emoções.",
+    "Alta": "Você possui uma inteligência emocional bastante desenvolvida. Existem ainda alguns pontos relativos ao seu autocontrole e as influências de algumas pessoas que convivem com você que precisam ainda ser mais equilibrados. A necessidade de dizer não, quando for preciso, necessita ser sempre motivo de atenção. Diante de conflitos interpessoais o autogerenciamento das emoções lhe faz evitar desgastes e brigas desnecessarias. Sua orientação para realizar, foco no que deseja alcançar aos poucos se traduz em resultados positivos.",
+    "Média": "Você possui uma inteligência emocional que oscila de acordo com certas situações. Em alguns momentos e circunstâncias é uma pessoa bem aplicada e em outras deixando um pouco a desejar. Desenvolver principalmente uma maior empatia e entendimento dos estados emocionais das outras pessoas, aprimorar e deixar mais claro a sua forma de comunicação, reconhecer seus sentimentos e dominar certas atitudes diante de situações de estresse é uma das habilidades que precisa desenvolver. Procure estudar e se aprofundar mais em Inteligência Emocional e conhecer mais técnicas práticas para seu desenvolvimento",
+    "Baixa": "Você possui uma inteligencia emocional que precisa ser desenvolvida. Procure ouvir mais seus sentimentos e criar mecanismos de autocontrole para que conflitos desnecessarios dentro das suas relações pessoais e profissionais deixem de sugar suas energias. Exercite a empatia, entendendo as limitações dos que lhe cercam. Você precisa aprender a demonstrar mais seus sentimentos, porém sempre de forma equilibrada. Procure controlar o ímpeto de responder sem pensar, agir sem refletir, para deixar de se arrepender e se magoar tanto.",
+    "Muito Baixa": "Você possui uma inteligência emocional ruim. Boa parte dos dramas e tristezas que tem vivido estão justificada pela completa falta de cuidado com seus sentimentos e com os sentimentos dos que estão no seu ciclo de convívio. Você tem sido dominado por sentimentos tóxicos e muitas vezes fica a mercê dos estados emocionais dos que convivem com você. Seu descontrole emocional está determinando uma série de limitações nos seus desejos e sonhos. Procure estudar mais sobre inteligência emocional ou procurar ajuda especializada, se for o caso."
+  }
+}

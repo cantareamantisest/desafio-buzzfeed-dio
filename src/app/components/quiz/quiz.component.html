@@ -1,0 +1,45 @@
+<div class="quiz__container">
+  <div class="quiz_logo">
+    <div class="box_image">
+      <img class="logo_left" src="assets/images/logo.png" alt="buzzfeed" />
+      <img
+        class="logo_right"
+        src="assets/images/emotional-intelligence.png"
+        alt="emotional-intelligence"
+      />
+    </div>
+    <h1>{{ title }}</h1>
+  </div>
+
+  <div *ngIf="!finished" class="quiz_questions">
+    <h3>{{ questionSelected.question }}</h3>
+  </div>
+
+  <div *ngIf="!finished" class="quiz_options">
+    <button
+      *ngFor="let option of questionSelected.options; let i = index"
+      (click)="playerChoose(option.value)"
+      class="btn-option"
+    >
+      {{ option.name }}
+    </button>
+  </div>
+
+  <div *ngIf="finished">
+    <div class="quiz_results">
+      <h1>O Seu resultado é:</h1>
+      <br />
+      <h3>{{ answerSelected }}</h3>
+    </div>
+    <div class="quiz_reset">
+      <button class="btn-reset" (click)="resetTest()">
+        <span>
+          <mat-icon aria-label="Example icon-button with a heart icon"
+            >sync</mat-icon
+          >
+          Refazer
+        </span>
+      </button>
+    </div>
+  </div>
+</div>
